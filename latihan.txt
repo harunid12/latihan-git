@@ -64,11 +64,11 @@ Nama : Lisa Agustina
 Username : LisaAgustina07
 Email : lisaagustina256@gmail.com
 
-Nama : Mega Mustika
-Username : megamustika22
-Email : mmega1729@gmail.com
->>>>>>> 7f90ec147be2a356140b76f304c6e8e14d72a291
-
+>>>>>>> 
 Nama : Vera Sipahutar
 Username : Verasphtr
 Email : verasipahutar20042gmail.com
+
+Nama : Mega Mustika
+Username : megamustika22
+Email : mmega1729@gmail.com
