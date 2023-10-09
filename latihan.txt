@@ -1,8 +1,3 @@
-<<<<<<< HEAD
-Nama	: Ilham Firmansyah
-username: Ilham045
-email   : ilhamfirmansyah981@gmail.com
-=======
 Nama	: daffa
 username: DAFFAKATE
 email : daffakisstantataufik@gmail.com
@@ -13,6 +8,14 @@ email : daffakisstantataufik@gmail.com
 <<<<<<< HEAD
 Nama	: Ilham Firmansyah
 username: Ilham045
+<<<<<<< HEAD
 email   : ilhamfirmansyah981@gmail.com
 
 >>>>>>> 9ec89bf7cb11aea702f9509caf44bdbf6e81b72c
+=======
+email   : ilhamfirmansyah981@gmail.com\
+<<<<<<< HEAD
+Nama	: Dani Sihombing
+username: ardannyyy
+email   : ardanny0105@gmail.com
+>>>>>>> 18b9863ae34147bbc967ba5fd165567feabae3b2
