@@ -32,3 +32,7 @@ email   : muhammadarjuna9913@gmail.com
 Nama	: Ahmad Harun
 username: harunid12
 email	: harunid12@gmail.com
+
+Nama	: rindry trishandra qyllana
+username: rindry
+email	: rindryqyllana@gmail.com
