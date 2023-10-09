@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 Nama	:Vera Sipahutar
 username: verasphtr
 email   :verasipahutar2004@gmail.com
+=======
+Nama	: daffa
+username: DAFFAKATE
+email : daffakisstantataufik@gmail.com
+>>>>>>> c774eb5eb146b489739b873e62921d0533038431
