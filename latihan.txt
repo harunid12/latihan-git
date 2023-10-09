@@ -8,7 +8,6 @@ Nama	: Ilham Firmansyah
 username: Ilham045
 <<<<<<< HEAD
 email   : ilhamfirmansyah981@gmail.com
-
 >>>>>>> 9ec89bf7cb11aea702f9509caf44bdbf6e81b72c
 =======
 email   : ilhamfirmansyah981@gmail.com\
@@ -17,5 +16,10 @@ Nama	: Dani Sihombing
 username: ardannyyy
 email   : ardanny0105@gmail.com
 >>>>>>> 18b9863ae34147bbc967ba5fd165567feabae3b2
-
+<<<<<<< HEAD
+=======
+Nama	: royhan andre
+username: MassRey04
+email   : andresantri752@gmail.com
+>>>>>>> 354315b6e0ab2f41c0982e15cb09889627a51b83
 CHAOO NI MA!
