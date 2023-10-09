@@ -36,3 +36,7 @@ email	: harunid12@gmail.com
 Nama	: rindry trishandra qyllana
 username: rindry
 email	: rindryqyllana@gmail.com
+
+Nama	: aurora magareva
+username: aurora28
+email	: auroramagareva2804@gmail.com
