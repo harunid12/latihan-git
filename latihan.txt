@@ -45,6 +45,6 @@ Nama	: Yunisa Wulandari
 username: yunisawulandari
 email	: yunisawulandari2@gmail.com
 
-Nama	: Indah Khairunnisa
-username: indahkhrnns
-email	: indahkhairunnisa1208@gmail.com
+Nama	: fajrialhadi
+username:fajrialhadi
+email : fajrialhadi821@gmail.com
