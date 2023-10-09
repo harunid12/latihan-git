@@ -28,3 +28,7 @@ email   : febrianadha19@gmail.com
 Nama	: Muhamad Arjuna
 username: Arjunaganteng123
 email   : muhammadarjuna9913@gmail.com
+
+Nama	: Yunisa Wulandari
+username: yunisawulandari
+email   : yunisawulandari2@gmail.com
