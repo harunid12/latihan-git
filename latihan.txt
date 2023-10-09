@@ -2,8 +2,6 @@ Nama	: daffa
 username: DAFFAKATE
 email : daffakisstantataufik@gmail.com
 <<<<<<< HEAD
-
-
 =======
 <<<<<<< HEAD
 Nama	: Ilham Firmansyah
