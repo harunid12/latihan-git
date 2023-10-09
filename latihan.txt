@@ -1,21 +1,14 @@
-Nama	: daffa
+Nama	: Daffa Kisstanta Taufik
 username: DAFFAKATE
 email : daffakisstantataufik@gmail.com
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
+
 Nama	: Ilham Firmansyah
 username: Ilham045
 email   : ilhamfirmansyah981@gmail.com
 
->>>>>>> 9ec89bf7cb11aea702f9509caf44bdbf6e81b72c
-=======
-
-<<<<<<< HEAD
 Nama	: Dani Sihombing
 username: ardannyyy
 email   : ardanny0105@gmail.com
->>>>>>> 18b9863ae34147bbc967ba5fd165567feabae3b2
 
 Nama	: royhan andre
 username: MassRey04
@@ -52,3 +45,7 @@ email	: indahkhairunnisa1208@gmail.com
 Nama	: dewisitiaminah
 username: dewisitiaminah
 email	: dewisitiiiiii@gmail.com
+
+Nama	: Fajri Alhadi
+username: fajrialhadi
+email	:fajrialhadi821@gmail.com
