@@ -16,5 +16,3 @@ username: Ilham045
 email   : ilhamfirmansyah981@gmail.com
 
 >>>>>>> 9ec89bf7cb11aea702f9509caf44bdbf6e81b72c
-
-chao ni ma
