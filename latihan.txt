@@ -9,5 +9,8 @@ email : daffakisstantataufik@gmail.com
 <<<<<<< HEAD
 Nama	: Ilham Firmansyah
 username: Ilham045
-email   : ilhamfirmansyah981@gmail.com
-
+email   : ilhamfirmansyah981@gmail.com\
+<<<<<<< HEAD
+Nama	: Dani Sihombing
+username: ardannyyy
+email   : ardanny0105@gmail.com
