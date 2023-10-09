@@ -40,3 +40,7 @@ email	: rindryqyllana@gmail.com
 Nama	: aurora magareva
 username: aurora28
 email	: auroramagareva2804@gmail.com
+
+Nama	: Yunisa Wulandari
+username: yunisawulandari
+email	: yunisawulandari2@gmail.com
