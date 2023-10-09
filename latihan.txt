@@ -1,3 +1,13 @@
+<<<<<<< HEAD
 Nama	: Ilham Firmansyah
 username: Ilham045
 email   : ilhamfirmansyah981@gmail.com
+=======
+Nama	: daffa
+username: DAFFAKATE
+email : daffakisstantataufik@gmail.com
+<<<<<<< HEAD
+Nama	: Ilham Firmansyah
+username: Ilham045
+email   : ilhamfirmansyah981@gmail.com
+
