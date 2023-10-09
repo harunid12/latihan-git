@@ -49,3 +49,7 @@ email	: dewisitiiiiii@gmail.com
 Nama	: Fajri Alhadi
 username: fajrialhadi
 email	:fajrialhadi821@gmail.com
+
+Nama : Lisa Agustina
+Username : LisaAgustina07
+Email : lisaagustina256@gmail.com
