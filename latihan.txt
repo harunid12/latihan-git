@@ -1,78 +1,83 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-Nama	:Vera Sipahutar
-username:verasphtr
-email:verasipahutar2004@gmail.com
-
-=======
 Nama	: Daffa Kisstanta Taufik
 username: DAFFAKATE
 email : daffakisstantataufik@gmail.com
-
+=======
+Nama	:Vera Sipahutar
+username:verasphtr
+email:verasipahutar2004@gmail.com
+=======
 Nama	: Ilham Firmansyah
 username: Ilham045
 email   : ilhamfirmansyah981@gmail.com
-
+=======
 Nama	: Dani Sihombing
 username: ardannyyy
 email   : ardanny0105@gmail.com
-
+=======
 Nama	: royhan andre
 username: MassRey04
 email   : andresantri752@gmail.com
-
+=======
+Nama	: Dani Sihombing
+username: ardannyyy
+email   : ardanny0105@gmail.com
+=======
+Nama	: royhan andre
+username: MassRey04
+email   : andresantri752@gmail.com
+=======
 Nama	:febrian adha
 username: febrianadha
 email   : febrianadha19@gmail.com
-
+=======
 Nama	: Muhamad Arjuna
 username: Arjunaganteng123
 email   : muhammadarjuna9913@gmail.com
-
+=======
 Nama	: Ahmad Harun
 username: harunid12
 email	: harunid12@gmail.com
-
+=======
 Nama	: rindry trishandra qyllana
 username: rindry
 email	: rindryqyllana@gmail.com
-
+=======
 Nama	: aurora magareva
 username: aurora28
 email	: auroramagareva2804@gmail.com
-
+=======
 Nama	: Yunisa Wulandari
 username: yunisawulandari
 email	: yunisawulandari2@gmail.com
-
+=======
 Nama	: Indah Khairunnisa
 username: indahkhrnns
 email	: indahkhairunnisa1208@gmail.com
-
+=======
 Nama	: dewisitiaminah
 username: dewisitiaminah
 email	: dewisitiiiiii@gmail.com
-
+=======
 Nama	: Fajri Alhadi
 username: fajrialhadi
 email	:fajrialhadi821@gmail.com
-<<<<<<< HEAD
->>>>>>> 0ed9364d4f4f0ab79dd6408e3535be072ec5a131
 =======
-
 Nama : Lisa Agustina
 Username : LisaAgustina07
 Email : lisaagustina256@gmail.com
-
->>>>>>> 
+=======
 Nama : Vera Sipahutar
 Username : Verasphtr
 Email : verasipahutar20042gmail.com
-
+=======
 Nama : Mega Mustika
 Username : megamustika22
 Email : mmega1729@gmail.com
-
+=======
 Nama : Galaska Azrin Pratama
 Username : Galaska77
 Email :askaazrin@gmail.com
+=======
+Nama : Ulul Nurona Bhakti
+Username : ululnurona
+Email : ululnurona@gmail.com
