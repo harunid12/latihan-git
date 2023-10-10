@@ -1,25 +1,80 @@
-Nama	: daffa
+Nama	: Daffa Kisstanta Taufik
 username: DAFFAKATE
 email : daffakisstantataufik@gmail.com
-<<<<<<< HEAD
 =======
-<<<<<<< HEAD
+Nama	:Vera Sipahutar
+username:verasphtr
+email:verasipahutar2004@gmail.com
+=======
 Nama	: Ilham Firmansyah
 username: Ilham045
-<<<<<<< HEAD
 email   : ilhamfirmansyah981@gmail.com
->>>>>>> 9ec89bf7cb11aea702f9509caf44bdbf6e81b72c
 =======
-email   : ilhamfirmansyah981@gmail.com\
-<<<<<<< HEAD
 Nama	: Dani Sihombing
 username: ardannyyy
 email   : ardanny0105@gmail.com
->>>>>>> 18b9863ae34147bbc967ba5fd165567feabae3b2
-<<<<<<< HEAD
 =======
 Nama	: royhan andre
 username: MassRey04
 email   : andresantri752@gmail.com
->>>>>>> 354315b6e0ab2f41c0982e15cb09889627a51b83
-CHAOO NI MA!
+=======
+Nama	: Dani Sihombing
+username: ardannyyy
+email   : ardanny0105@gmail.com
+=======
+Nama	: royhan andre
+username: MassRey04
+email   : andresantri752@gmail.com
+=======
+Nama	:febrian adha
+username: febrianadha
+email   : febrianadha19@gmail.com
+=======
+Nama	: Muhamad Arjuna
+username: Arjunaganteng123
+email   : muhammadarjuna9913@gmail.com
+=======
+Nama	: Ahmad Harun
+username: harunid12
+email	: harunid12@gmail.com
+=======
+Nama	: rindry trishandra qyllana
+username: rindry
+email	: rindryqyllana@gmail.com
+=======
+Nama	: aurora magareva
+username: aurora28
+email	: auroramagareva2804@gmail.com
+=======
+Nama	: Yunisa Wulandari
+username: yunisawulandari
+email	: yunisawulandari2@gmail.com
+=======
+Nama	: Indah Khairunnisa
+username: indahkhrnns
+email	: indahkhairunnisa1208@gmail.com
+=======
+Nama	: dewisitiaminah
+username: dewisitiaminah
+email	: dewisitiiiiii@gmail.com
+=======
+Nama	: Fajri Alhadi
+username: fajrialhadi
+email	:fajrialhadi821@gmail.com
+=======
+Nama : Lisa Agustina
+Username : LisaAgustina07
+Email : lisaagustina256@gmail.com
+=======
+Nama : Vera Sipahutar
+Username : Verasphtr
+Email : verasipahutar20042gmail.com
+=======
+Nama : Mega Mustika
+Username : megamustika22
+Email : mmega1729@gmail.com
+=======
+Nama : Ulul Nurona Bhakti
+Username : ululnurona
+Email : ululnurona@gmail.com
+
